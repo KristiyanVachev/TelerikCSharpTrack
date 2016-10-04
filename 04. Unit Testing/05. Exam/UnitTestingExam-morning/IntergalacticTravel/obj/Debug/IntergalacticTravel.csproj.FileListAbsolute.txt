@@ -1,0 +1,5 @@
+E:\Software Academy\04. Unit Testing\05. Exam\UnitTestingExam-morning\IntergalacticTravel\bin\Debug\IntergalacticTravel.dll
+E:\Software Academy\04. Unit Testing\05. Exam\UnitTestingExam-morning\IntergalacticTravel\bin\Debug\IntergalacticTravel.pdb
+E:\Software Academy\04. Unit Testing\05. Exam\UnitTestingExam-morning\IntergalacticTravel\obj\Debug\IntergalacticTravel.csprojResolveAssemblyReference.cache
+E:\Software Academy\04. Unit Testing\05. Exam\UnitTestingExam-morning\IntergalacticTravel\obj\Debug\IntergalacticTravel.dll
+E:\Software Academy\04. Unit Testing\05. Exam\UnitTestingExam-morning\IntergalacticTravel\obj\Debug\IntergalacticTravel.pdb

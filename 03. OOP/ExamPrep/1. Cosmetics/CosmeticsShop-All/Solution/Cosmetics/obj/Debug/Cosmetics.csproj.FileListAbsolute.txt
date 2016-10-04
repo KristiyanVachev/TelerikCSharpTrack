@@ -1,0 +1,5 @@
+C:\Users\Kristiyan Vachev\Downloads\CosmeticsShop-All\Solution\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Users\Kristiyan Vachev\Downloads\CosmeticsShop-All\Solution\Cosmetics\bin\Debug\Cosmetics.exe
+C:\Users\Kristiyan Vachev\Downloads\CosmeticsShop-All\Solution\Cosmetics\bin\Debug\Cosmetics.pdb
+C:\Users\Kristiyan Vachev\Downloads\CosmeticsShop-All\Solution\Cosmetics\obj\Debug\Cosmetics.exe
+C:\Users\Kristiyan Vachev\Downloads\CosmeticsShop-All\Solution\Cosmetics\obj\Debug\Cosmetics.pdb

@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Range Exceptions\bin\Debug\Range Exceptions.exe.config
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Range Exceptions\bin\Debug\Range Exceptions.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Range Exceptions\bin\Debug\Range Exceptions.pdb
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Range Exceptions\obj\Debug\Range Exceptions.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Range Exceptions\obj\Debug\Range Exceptions.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Range Exceptions\obj\Debug\Range Exceptions.pdb

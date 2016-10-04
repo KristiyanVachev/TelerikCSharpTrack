@@ -1,0 +1,12 @@
+E:\Software Academy\04. Unit Testing\04.1 Workshop\Solution\Cosmetics\bin\Debug\Cosmetics.exe.config
+E:\Software Academy\04. Unit Testing\04.1 Workshop\Solution\Cosmetics\bin\Debug\Cosmetics.exe
+E:\Software Academy\04. Unit Testing\04.1 Workshop\Solution\Cosmetics\bin\Debug\Cosmetics.pdb
+E:\Software Academy\04. Unit Testing\04.1 Workshop\Solution\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+E:\Software Academy\04. Unit Testing\04.1 Workshop\Solution\Cosmetics\obj\Debug\Cosmetics.exe
+E:\Software Academy\04. Unit Testing\04.1 Workshop\Solution\Cosmetics\obj\Debug\Cosmetics.pdb
+E:\Software Academy\04. Unit Testing\04.1 Workshop\UnitTestingWorkshop\Cosmetics\bin\Debug\Cosmetics.exe.config
+E:\Software Academy\04. Unit Testing\04.1 Workshop\UnitTestingWorkshop\Cosmetics\obj\Debug\Cosmetics.exe
+E:\Software Academy\04. Unit Testing\04.1 Workshop\UnitTestingWorkshop\Cosmetics\obj\Debug\Cosmetics.pdb
+E:\Software Academy\04. Unit Testing\04.1 Workshop\UnitTestingWorkshop\Cosmetics\bin\Debug\Cosmetics.exe
+E:\Software Academy\04. Unit Testing\04.1 Workshop\UnitTestingWorkshop\Cosmetics\bin\Debug\Cosmetics.pdb
+E:\Software Academy\04. Unit Testing\04.1 Workshop\UnitTestingWorkshop\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache

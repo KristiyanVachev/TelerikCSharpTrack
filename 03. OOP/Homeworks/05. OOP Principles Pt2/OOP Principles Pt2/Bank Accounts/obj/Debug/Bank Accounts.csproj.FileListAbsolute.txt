@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Bank Accounts\bin\Debug\Bank Accounts.exe.config
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Bank Accounts\bin\Debug\Bank Accounts.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Bank Accounts\bin\Debug\Bank Accounts.pdb
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Bank Accounts\obj\Debug\Bank Accounts.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Bank Accounts\obj\Debug\Bank Accounts.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Bank Accounts\obj\Debug\Bank Accounts.pdb

@@ -1,0 +1,5 @@
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Demo\bin\Debug\Poker.exe
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Demo\bin\Debug\Poker.pdb
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Demo\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Demo\obj\Debug\Poker.exe
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Demo\obj\Debug\Poker.pdb

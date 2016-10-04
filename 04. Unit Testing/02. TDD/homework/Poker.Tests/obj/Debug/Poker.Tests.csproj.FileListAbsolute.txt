@@ -1,0 +1,9 @@
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Poker.Tests\bin\Debug\Poker.Tests.dll
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Poker.Tests\bin\Debug\Poker.Tests.pdb
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Poker.Tests\bin\Debug\nunit.framework.dll
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Poker.Tests\bin\Debug\Poker.exe
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Poker.Tests\bin\Debug\Poker.pdb
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Poker.Tests\bin\Debug\nunit.framework.xml
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Poker.Tests\obj\Debug\Poker.Tests.dll
+E:\Software Academy\04. Unit Testing\02. TDD\homework\Poker.Tests\obj\Debug\Poker.Tests.pdb

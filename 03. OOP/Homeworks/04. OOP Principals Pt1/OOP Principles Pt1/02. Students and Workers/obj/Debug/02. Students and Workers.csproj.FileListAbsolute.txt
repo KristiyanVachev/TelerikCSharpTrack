@@ -1,0 +1,5 @@
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\04. OOP Principals Pt1\OOP Principles Pt1\02. Students and Workers\bin\Debug\_02.Students_and_Workers.exe.config
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\04. OOP Principals Pt1\OOP Principles Pt1\02. Students and Workers\bin\Debug\_02.Students_and_Workers.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\04. OOP Principals Pt1\OOP Principles Pt1\02. Students and Workers\bin\Debug\_02.Students_and_Workers.pdb
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\04. OOP Principals Pt1\OOP Principles Pt1\02. Students and Workers\obj\Debug\_02.Students_and_Workers.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\04. OOP Principals Pt1\OOP Principles Pt1\02. Students and Workers\obj\Debug\_02.Students_and_Workers.pdb

@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\04. OOP Principals Pt1\OOP Principles Pt1\01. School Classes\bin\Debug\_01.School_Classes.exe.config
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\04. OOP Principals Pt1\OOP Principles Pt1\01. School Classes\bin\Debug\_01.School_Classes.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\04. OOP Principals Pt1\OOP Principles Pt1\01. School Classes\bin\Debug\_01.School_Classes.pdb
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\04. OOP Principals Pt1\OOP Principles Pt1\01. School Classes\obj\Debug\01. School Classes.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\04. OOP Principals Pt1\OOP Principles Pt1\01. School Classes\obj\Debug\_01.School_Classes.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\04. OOP Principals Pt1\OOP Principles Pt1\01. School Classes\obj\Debug\_01.School_Classes.pdb

@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\03. Linq\Linq\StringBuilderExtension\bin\Debug\StringBuilderExtension.exe.config
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\03. Linq\Linq\StringBuilderExtension\bin\Debug\StringBuilderExtension.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\03. Linq\Linq\StringBuilderExtension\bin\Debug\StringBuilderExtension.pdb
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\03. Linq\Linq\StringBuilderExtension\obj\Debug\StringBuilderExtension.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\03. Linq\Linq\StringBuilderExtension\obj\Debug\StringBuilderExtension.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\03. Linq\Linq\StringBuilderExtension\obj\Debug\StringBuilderExtension.pdb

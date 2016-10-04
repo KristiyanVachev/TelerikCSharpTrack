@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\01. Defining Class Pt1\Defining Classes Pt1\GSM\bin\Debug\GSM.exe.config
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\01. Defining Class Pt1\Defining Classes Pt1\GSM\bin\Debug\GSM.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\01. Defining Class Pt1\Defining Classes Pt1\GSM\bin\Debug\GSM.pdb
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\01. Defining Class Pt1\Defining Classes Pt1\GSM\obj\Debug\GSM.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\01. Defining Class Pt1\Defining Classes Pt1\GSM\obj\Debug\GSM.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\01. Defining Class Pt1\Defining Classes Pt1\GSM\obj\Debug\GSM.pdb

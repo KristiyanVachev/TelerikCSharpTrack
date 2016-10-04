@@ -1,0 +1,5 @@
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars\bin\Debug\Cars.dll
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars\bin\Debug\Cars.pdb
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars\obj\Debug\Cars.dll
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars\obj\Debug\Cars.pdb

@@ -1,0 +1,14 @@
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.pdb
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\bin\Debug\Cars.dll
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\bin\Debug\Moq.dll
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\bin\Debug\Telerik.JustMock.dll
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\bin\Debug\Cars.pdb
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\bin\Debug\Moq.xml
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\bin\Debug\Telerik.JustMock.xml
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.csprojResolveAssemblyReference.cache
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.dll
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.pdb
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\bin\Debug\nunit.framework.dll
+E:\Software Academy\04. Unit Testing\03. Mocking\homework\Cars.Tests.JustMock\bin\Debug\nunit.framework.xml

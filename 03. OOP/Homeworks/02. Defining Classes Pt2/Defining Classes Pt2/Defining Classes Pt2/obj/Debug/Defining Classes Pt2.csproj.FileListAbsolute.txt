@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\02. Defining Classes Pt2\Defining Classes Pt2\Defining Classes Pt2\bin\Debug\Defining Classes Pt2.exe.config
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\02. Defining Classes Pt2\Defining Classes Pt2\Defining Classes Pt2\bin\Debug\Defining Classes Pt2.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\02. Defining Classes Pt2\Defining Classes Pt2\Defining Classes Pt2\bin\Debug\Defining Classes Pt2.pdb
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\02. Defining Classes Pt2\Defining Classes Pt2\Defining Classes Pt2\obj\Debug\Defining Classes Pt2.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\02. Defining Classes Pt2\Defining Classes Pt2\Defining Classes Pt2\obj\Debug\Defining Classes Pt2.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\02. Defining Classes Pt2\Defining Classes Pt2\Defining Classes Pt2\obj\Debug\Defining Classes Pt2.pdb

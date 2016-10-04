@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\03. Linq\Linq\StudentsLinq\bin\Debug\StudentsLinq.exe.config
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\03. Linq\Linq\StudentsLinq\bin\Debug\StudentsLinq.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\03. Linq\Linq\StudentsLinq\bin\Debug\StudentsLinq.pdb
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\03. Linq\Linq\StudentsLinq\obj\Debug\StudentsLinq.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\03. Linq\Linq\StudentsLinq\obj\Debug\StudentsLinq.pdb
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\03. Linq\Linq\StudentsLinq\obj\Debug\StudentsLinq.csprojResolveAssemblyReference.cache

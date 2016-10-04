@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Shapes\bin\Debug\Shapes.exe.config
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Shapes\bin\Debug\Shapes.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Shapes\bin\Debug\Shapes.pdb
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Shapes\obj\Debug\Shapes.exe
+E:\Programming\Telerik\Software Academy\03. OOP\Homeworks\05. OOP Principles Pt2\OOP Principles Pt2\Shapes\obj\Debug\Shapes.pdb

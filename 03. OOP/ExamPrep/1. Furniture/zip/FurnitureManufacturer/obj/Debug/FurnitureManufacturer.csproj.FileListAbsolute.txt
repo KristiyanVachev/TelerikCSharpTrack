@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\03. OOP\ExamPrep\1. Furniture\1. Furniture_Скелет на решението\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+E:\Programming\Telerik\Software Academy\03. OOP\ExamPrep\1. Furniture\1. Furniture_Скелет на решението\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\03. OOP\ExamPrep\1. Furniture\1. Furniture_Скелет на решението\FurnitureManufacturer\bin\Debug\Furnitures.exe
+E:\Programming\Telerik\Software Academy\03. OOP\ExamPrep\1. Furniture\1. Furniture_Скелет на решението\FurnitureManufacturer\bin\Debug\Furnitures.pdb
+E:\Programming\Telerik\Software Academy\03. OOP\ExamPrep\1. Furniture\1. Furniture_Скелет на решението\FurnitureManufacturer\obj\Debug\Furnitures.exe
+E:\Programming\Telerik\Software Academy\03. OOP\ExamPrep\1. Furniture\1. Furniture_Скелет на решението\FurnitureManufacturer\obj\Debug\Furnitures.pdb
