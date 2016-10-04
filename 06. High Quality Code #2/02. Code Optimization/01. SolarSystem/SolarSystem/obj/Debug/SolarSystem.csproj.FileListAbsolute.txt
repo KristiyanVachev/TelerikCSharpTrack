@@ -1,0 +1,14 @@
+C:\Users\Kristiyan Vachev\Downloads\High-Quality-Code-Part-2-master\High-Quality-Code-Part-2-master\Topics\02. Code-Tuning-and-Optimization\homework\bin\Debug\SolarSystem.exe
+C:\Users\Kristiyan Vachev\Downloads\High-Quality-Code-Part-2-master\High-Quality-Code-Part-2-master\Topics\02. Code-Tuning-and-Optimization\homework\bin\Debug\SolarSystem.pdb
+C:\Users\Kristiyan Vachev\Downloads\High-Quality-Code-Part-2-master\High-Quality-Code-Part-2-master\Topics\02. Code-Tuning-and-Optimization\homework\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+C:\Users\Kristiyan Vachev\Downloads\High-Quality-Code-Part-2-master\High-Quality-Code-Part-2-master\Topics\02. Code-Tuning-and-Optimization\homework\obj\Debug\MainWindow.g.cs
+C:\Users\Kristiyan Vachev\Downloads\High-Quality-Code-Part-2-master\High-Quality-Code-Part-2-master\Topics\02. Code-Tuning-and-Optimization\homework\obj\Debug\App.g.cs
+C:\Users\Kristiyan Vachev\Downloads\High-Quality-Code-Part-2-master\High-Quality-Code-Part-2-master\Topics\02. Code-Tuning-and-Optimization\homework\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kristiyan Vachev\Downloads\High-Quality-Code-Part-2-master\High-Quality-Code-Part-2-master\Topics\02. Code-Tuning-and-Optimization\homework\obj\Debug\SolarSystem_MarkupCompile.cache
+C:\Users\Kristiyan Vachev\Downloads\High-Quality-Code-Part-2-master\High-Quality-Code-Part-2-master\Topics\02. Code-Tuning-and-Optimization\homework\obj\Debug\SolarSystem_MarkupCompile.lref
+C:\Users\Kristiyan Vachev\Downloads\High-Quality-Code-Part-2-master\High-Quality-Code-Part-2-master\Topics\02. Code-Tuning-and-Optimization\homework\obj\Debug\MainWindow.baml
+C:\Users\Kristiyan Vachev\Downloads\High-Quality-Code-Part-2-master\High-Quality-Code-Part-2-master\Topics\02. Code-Tuning-and-Optimization\homework\obj\Debug\SolarSystem.g.resources
+C:\Users\Kristiyan Vachev\Downloads\High-Quality-Code-Part-2-master\High-Quality-Code-Part-2-master\Topics\02. Code-Tuning-and-Optimization\homework\obj\Debug\SolarSystem.exe
+C:\Users\Kristiyan Vachev\Downloads\High-Quality-Code-Part-2-master\High-Quality-Code-Part-2-master\Topics\02. Code-Tuning-and-Optimization\homework\obj\Debug\SolarSystem.pdb
+E:\Software Academy\06. High Quality Code #2\02. Code Optimization\01. Solar System\obj\Debug\SolarSystem.exe
+E:\Software Academy\06. High Quality Code #2\02. Code Optimization\01. Solar System\obj\Debug\SolarSystem.pdb

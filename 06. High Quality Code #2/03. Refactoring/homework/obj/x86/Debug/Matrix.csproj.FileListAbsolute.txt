@@ -1,0 +1,5 @@
+E:\Software Academy\06. High Quality Code #2\03. Refactoring\homework\bin\Debug\GameFifteen.exe
+E:\Software Academy\06. High Quality Code #2\03. Refactoring\homework\bin\Debug\GameFifteen.pdb
+E:\Software Academy\06. High Quality Code #2\03. Refactoring\homework\obj\x86\Debug\Matrix.csprojResolveAssemblyReference.cache
+E:\Software Academy\06. High Quality Code #2\03. Refactoring\homework\obj\x86\Debug\GameFifteen.exe
+E:\Software Academy\06. High Quality Code #2\03. Refactoring\homework\obj\x86\Debug\GameFifteen.pdb

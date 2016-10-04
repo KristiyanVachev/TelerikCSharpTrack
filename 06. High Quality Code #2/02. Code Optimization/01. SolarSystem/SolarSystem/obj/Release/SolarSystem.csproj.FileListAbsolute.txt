@@ -1,0 +1,12 @@
+E:\Software Academy\06. High Quality Code #2\bin\Release\SolarSystem.exe
+E:\Software Academy\06. High Quality Code #2\bin\Release\SolarSystem.pdb
+E:\Software Academy\06. High Quality Code #2\02. Code Optimization\01. Solar System\obj\Release\MainWindow.g.cs
+E:\Software Academy\06. High Quality Code #2\02. Code Optimization\01. Solar System\obj\Release\App.g.cs
+E:\Software Academy\06. High Quality Code #2\02. Code Optimization\01. Solar System\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Software Academy\06. High Quality Code #2\02. Code Optimization\01. Solar System\obj\Release\SolarSystem_MarkupCompile.cache
+E:\Software Academy\06. High Quality Code #2\02. Code Optimization\01. Solar System\obj\Release\SolarSystem_MarkupCompile.lref
+E:\Software Academy\06. High Quality Code #2\02. Code Optimization\01. Solar System\obj\Release\MainWindow.baml
+E:\Software Academy\06. High Quality Code #2\02. Code Optimization\01. Solar System\obj\Release\SolarSystem.g.resources
+E:\Software Academy\06. High Quality Code #2\02. Code Optimization\01. Solar System\obj\Release\SolarSystem.exe
+E:\Software Academy\06. High Quality Code #2\02. Code Optimization\01. Solar System\obj\Release\SolarSystem.pdb
+E:\Software Academy\06. High Quality Code #2\02. Code Optimization\01. Solar System\obj\Release\SolarSystem.csprojResolveAssemblyReference.cache

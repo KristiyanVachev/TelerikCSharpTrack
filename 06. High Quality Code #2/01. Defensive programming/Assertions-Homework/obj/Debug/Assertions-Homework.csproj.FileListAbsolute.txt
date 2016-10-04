@@ -1,0 +1,5 @@
+E:\Software Academy\06. High Quality Code #2\01. Defensive programming\homework\Assertions-Homework\bin\Debug\Assertions-Homework.exe
+E:\Software Academy\06. High Quality Code #2\01. Defensive programming\homework\Assertions-Homework\bin\Debug\Assertions-Homework.pdb
+E:\Software Academy\06. High Quality Code #2\01. Defensive programming\homework\Assertions-Homework\obj\Debug\Assertions-Homework.csprojResolveAssemblyReference.cache
+E:\Software Academy\06. High Quality Code #2\01. Defensive programming\homework\Assertions-Homework\obj\Debug\Assertions-Homework.exe
+E:\Software Academy\06. High Quality Code #2\01. Defensive programming\homework\Assertions-Homework\obj\Debug\Assertions-Homework.pdb
