@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\ExamPractice\bin\Debug\ExamPractice.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\ExamPractice\bin\Debug\ExamPractice.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\ExamPractice\bin\Debug\ExamPractice.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\ExamPractice\obj\Debug\02. Even Differences.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\ExamPractice\obj\Debug\ExamPractice.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\ExamPractice\obj\Debug\ExamPractice.pdb

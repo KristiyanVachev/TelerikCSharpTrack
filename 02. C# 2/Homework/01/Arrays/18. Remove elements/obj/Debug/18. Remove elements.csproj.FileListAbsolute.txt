@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\18. Remove elements\bin\Debug\_18.Remove_elements.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\18. Remove elements\bin\Debug\_18.Remove_elements.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\18. Remove elements\bin\Debug\_18.Remove_elements.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\18. Remove elements\obj\Debug\18. Remove elements.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\18. Remove elements\obj\Debug\_18.Remove_elements.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\18. Remove elements\obj\Debug\_18.Remove_elements.pdb

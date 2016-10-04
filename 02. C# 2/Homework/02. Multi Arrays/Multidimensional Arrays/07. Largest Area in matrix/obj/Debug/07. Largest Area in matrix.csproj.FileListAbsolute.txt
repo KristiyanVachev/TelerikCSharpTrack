@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\07. Largest Area in matrix\bin\Debug\_07.Largest_Area_in_matrix.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\07. Largest Area in matrix\bin\Debug\_07.Largest_Area_in_matrix.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\07. Largest Area in matrix\bin\Debug\_07.Largest_Area_in_matrix.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\07. Largest Area in matrix\obj\Debug\07. Largest Area in matrix.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\07. Largest Area in matrix\obj\Debug\_07.Largest_Area_in_matrix.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\07. Largest Area in matrix\obj\Debug\_07.Largest_Area_in_matrix.pdb

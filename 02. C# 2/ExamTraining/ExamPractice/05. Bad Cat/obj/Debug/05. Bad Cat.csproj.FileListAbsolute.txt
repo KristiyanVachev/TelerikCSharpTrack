@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\05. Bad Cat\bin\Debug\_05.Bad_Cat.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\05. Bad Cat\obj\Debug\05. Bad Cat.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\05. Bad Cat\bin\Debug\_05.Bad_Cat.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\05. Bad Cat\bin\Debug\_05.Bad_Cat.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\05. Bad Cat\obj\Debug\_05.Bad_Cat.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\05. Bad Cat\obj\Debug\_05.Bad_Cat.pdb

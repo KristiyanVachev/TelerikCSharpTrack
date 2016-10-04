@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\04. Konspiration ListofLists\bin\Debug\_04.Konspiration_ListofLists.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\04. Konspiration ListofLists\bin\Debug\_04.Konspiration_ListofLists.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\04. Konspiration ListofLists\bin\Debug\_04.Konspiration_ListofLists.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\04. Konspiration ListofLists\obj\Debug\_04.Konspiration_ListofLists.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\04. Konspiration ListofLists\obj\Debug\_04.Konspiration_ListofLists.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\04. Konspiration ListofLists\obj\Debug\04. Konspiration ListofLists.csprojResolveAssemblyReference.cache

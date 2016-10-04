@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\newavocadoe\bin\Debug\newavocadoe.exe.config
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\newavocadoe\obj\Debug\newavocadoe.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\newavocadoe\obj\Debug\newavocadoe.pdb
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\newavocadoe\bin\Debug\newavocadoe.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\newavocadoe\bin\Debug\newavocadoe.pdb
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\newavocadoe\obj\Debug\05.1 Bitwise Avocado.csprojResolveAssemblyReference.cache

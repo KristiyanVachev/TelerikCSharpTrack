@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.pdb

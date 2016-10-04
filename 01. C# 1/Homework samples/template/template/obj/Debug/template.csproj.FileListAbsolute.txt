@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\Homework samples\template\template\bin\Debug\template.exe.config
+E:\Programming\Telerik\Software Academy\Homework samples\template\template\obj\Debug\template.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\Homework samples\template\template\bin\Debug\template.exe
+E:\Programming\Telerik\Software Academy\Homework samples\template\template\bin\Debug\template.pdb
+E:\Programming\Telerik\Software Academy\Homework samples\template\template\obj\Debug\template.exe
+E:\Programming\Telerik\Software Academy\Homework samples\template\template\obj\Debug\template.pdb

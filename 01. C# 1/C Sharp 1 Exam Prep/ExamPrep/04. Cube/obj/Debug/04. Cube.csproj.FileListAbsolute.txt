@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\C Sharp 1 Exam Prep\ExamPrep\04. Cube\bin\Debug\_04.Cube.exe.config
+E:\Programming\Telerik\Software Academy\C Sharp 1 Exam Prep\ExamPrep\04. Cube\obj\Debug\04. Cube.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\C Sharp 1 Exam Prep\ExamPrep\04. Cube\bin\Debug\_04.Cube.exe
+E:\Programming\Telerik\Software Academy\C Sharp 1 Exam Prep\ExamPrep\04. Cube\bin\Debug\_04.Cube.pdb
+E:\Programming\Telerik\Software Academy\C Sharp 1 Exam Prep\ExamPrep\04. Cube\obj\Debug\_04.Cube.exe
+E:\Programming\Telerik\Software Academy\C Sharp 1 Exam Prep\ExamPrep\04. Cube\obj\Debug\_04.Cube.pdb

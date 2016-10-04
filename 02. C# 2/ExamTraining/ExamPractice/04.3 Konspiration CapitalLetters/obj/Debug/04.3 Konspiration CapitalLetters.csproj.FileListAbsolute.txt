@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\04.3 Konspiration CapitalLetters\bin\Debug\04.3 Konspiration CapitalLetters.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\04.3 Konspiration CapitalLetters\bin\Debug\04.3 Konspiration CapitalLetters.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\04.3 Konspiration CapitalLetters\bin\Debug\04.3 Konspiration CapitalLetters.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\04.3 Konspiration CapitalLetters\obj\Debug\04.3 Konspiration CapitalLetters.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\04.3 Konspiration CapitalLetters\obj\Debug\04.3 Konspiration CapitalLetters.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\04.3 Konspiration CapitalLetters\obj\Debug\04.3 Konspiration CapitalLetters.pdb

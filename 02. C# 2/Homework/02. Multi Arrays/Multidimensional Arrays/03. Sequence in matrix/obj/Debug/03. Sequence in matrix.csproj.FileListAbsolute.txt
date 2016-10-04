@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\03. Sequence in matrix\bin\Debug\_03.Sequence_in_matrix.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\03. Sequence in matrix\bin\Debug\_03.Sequence_in_matrix.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\03. Sequence in matrix\bin\Debug\_03.Sequence_in_matrix.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\03. Sequence in matrix\obj\Debug\03. Sequence in matrix.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\03. Sequence in matrix\obj\Debug\_03.Sequence_in_matrix.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\03. Sequence in matrix\obj\Debug\_03.Sequence_in_matrix.pdb

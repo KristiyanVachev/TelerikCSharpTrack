@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\05.2 Optimized Avocado\bin\Debug\05.2 Optimized Avocado.exe.config
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\05.2 Optimized Avocado\bin\Debug\05.2 Optimized Avocado.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\05.2 Optimized Avocado\bin\Debug\05.2 Optimized Avocado.pdb
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\05.2 Optimized Avocado\obj\Debug\05.2 Optimized Avocado.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\05.2 Optimized Avocado\obj\Debug\05.2 Optimized Avocado.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\05.2 Optimized Avocado\obj\Debug\05.2 Optimized Avocado.pdb

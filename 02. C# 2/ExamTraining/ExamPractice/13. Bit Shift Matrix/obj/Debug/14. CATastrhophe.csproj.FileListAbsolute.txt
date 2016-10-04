@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\13. Bit Shift Matrix\obj\Debug\_13.Bit_Shift_Matrix.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\13. Bit Shift Matrix\obj\Debug\_13.Bit_Shift_Matrix.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\13. Bit Shift Matrix\bin\Debug\_13.Bit_Shift_Matrix.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\13. Bit Shift Matrix\bin\Debug\_13.Bit_Shift_Matrix.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\13. Bit Shift Matrix\bin\Debug\_13.Bit_Shift_Matrix.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\13. Bit Shift Matrix\obj\Debug\14. CATastrhophe.csprojResolveAssemblyReference.cache

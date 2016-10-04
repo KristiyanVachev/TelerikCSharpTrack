@@ -1,0 +1,5 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\03. Lover of 3\bin\Debug\_03.Lover_of_3.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\03. Lover of 3\bin\Debug\_03.Lover_of_3.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\03. Lover of 3\bin\Debug\_03.Lover_of_3.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\03. Lover of 3\obj\Debug\_03.Lover_of_3.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\03. Lover of 3\obj\Debug\_03.Lover_of_3.pdb

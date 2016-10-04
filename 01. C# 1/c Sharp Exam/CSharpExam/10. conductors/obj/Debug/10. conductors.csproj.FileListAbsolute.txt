@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\10. conductors\bin\Debug\_10.conductors.exe.config
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\10. conductors\bin\Debug\_10.conductors.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\10. conductors\bin\Debug\_10.conductors.pdb
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\10. conductors\obj\Debug\10. conductors.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\10. conductors\obj\Debug\_10.conductors.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\10. conductors\obj\Debug\_10.conductors.pdb

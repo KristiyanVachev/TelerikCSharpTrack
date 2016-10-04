@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\11. De-Cat-Coding\bin\Debug\_11.De_Cat_Coding.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\11. De-Cat-Coding\bin\Debug\_11.De_Cat_Coding.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\11. De-Cat-Coding\bin\Debug\_11.De_Cat_Coding.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\11. De-Cat-Coding\obj\Debug\11. De-Cat-Coding.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\11. De-Cat-Coding\obj\Debug\_11.De_Cat_Coding.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\11. De-Cat-Coding\obj\Debug\_11.De_Cat_Coding.pdb

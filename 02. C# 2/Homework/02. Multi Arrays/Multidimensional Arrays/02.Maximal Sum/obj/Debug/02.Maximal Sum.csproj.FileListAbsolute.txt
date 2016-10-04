@@ -1,0 +1,5 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\02.Maximal Sum\bin\Debug\02.Maximal Sum.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\02.Maximal Sum\bin\Debug\02.Maximal Sum.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\02.Maximal Sum\bin\Debug\02.Maximal Sum.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\02.Maximal Sum\obj\Debug\02.Maximal Sum.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\02. Multi Arrays\Multidimensional Arrays\02.Maximal Sum\obj\Debug\02.Maximal Sum.pdb

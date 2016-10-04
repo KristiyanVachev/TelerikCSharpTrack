@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\09. Most frequent number\bin\Debug\_09.Most_frequent_number.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\09. Most frequent number\bin\Debug\_09.Most_frequent_number.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\09. Most frequent number\bin\Debug\_09.Most_frequent_number.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\09. Most frequent number\obj\Debug\09. Most frequent number.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\09. Most frequent number\obj\Debug\_09.Most_frequent_number.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\09. Most frequent number\obj\Debug\_09.Most_frequent_number.pdb

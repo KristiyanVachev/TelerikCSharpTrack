@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\03. Methods\Methods\01.Say Hello\bin\Debug\01.Say Hello.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\03. Methods\Methods\01.Say Hello\bin\Debug\01.Say Hello.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\03. Methods\Methods\01.Say Hello\bin\Debug\01.Say Hello.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\03. Methods\Methods\01.Say Hello\obj\Debug\01.Say Hello.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\03. Methods\Methods\01.Say Hello\obj\Debug\01.Say Hello.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\03. Methods\Methods\01.Say Hello\obj\Debug\01.Say Hello.pdb

@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\CSharpExam\bin\Debug\CSharpExam.exe.config
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\CSharpExam\bin\Debug\CSharpExam.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\CSharpExam\bin\Debug\CSharpExam.pdb
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\CSharpExam\obj\Debug\CSharpExam.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\CSharpExam\obj\Debug\CSharpExam.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\CSharpExam\obj\Debug\CSharpExam.pdb

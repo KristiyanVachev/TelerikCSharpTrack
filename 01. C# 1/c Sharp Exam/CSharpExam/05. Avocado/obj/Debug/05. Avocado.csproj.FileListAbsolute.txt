@@ -1,0 +1,5 @@
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\05. Avocado\bin\Debug\_05.Avocado.exe.config
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\05. Avocado\bin\Debug\_05.Avocado.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\05. Avocado\bin\Debug\_05.Avocado.pdb
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\05. Avocado\obj\Debug\_05.Avocado.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\05. Avocado\obj\Debug\_05.Avocado.pdb

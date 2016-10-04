@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\04. batman\bin\Debug\_04.batman.exe.config
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\04. batman\bin\Debug\_04.batman.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\04. batman\bin\Debug\_04.batman.pdb
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\04. batman\obj\Debug\_04.batman.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\04. batman\obj\Debug\_04.batman.pdb
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\04. batman\obj\Debug\04. batman.csprojResolveAssemblyReference.cache

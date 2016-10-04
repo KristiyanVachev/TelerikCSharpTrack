@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\07. Speeds\bin\Debug\_07.Speeds.exe.config
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\07. Speeds\bin\Debug\_07.Speeds.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\07. Speeds\bin\Debug\_07.Speeds.pdb
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\07. Speeds\obj\Debug\07. Speeds.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\07. Speeds\obj\Debug\_07.Speeds.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\07. Speeds\obj\Debug\_07.Speeds.pdb

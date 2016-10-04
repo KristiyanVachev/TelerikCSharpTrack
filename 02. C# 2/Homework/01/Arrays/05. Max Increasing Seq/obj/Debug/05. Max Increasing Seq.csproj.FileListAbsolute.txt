@@ -1,0 +1,1 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\05. Max Increasing Seq\bin\Debug\_05.Max_Increasing_Seq.exe.config

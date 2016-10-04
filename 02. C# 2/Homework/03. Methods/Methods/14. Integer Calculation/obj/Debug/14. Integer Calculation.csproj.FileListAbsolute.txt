@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\03. Methods\Methods\14. Integer Calculation\bin\Debug\_14.Integer_Calculation.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\03. Methods\Methods\14. Integer Calculation\bin\Debug\_14.Integer_Calculation.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\03. Methods\Methods\14. Integer Calculation\bin\Debug\_14.Integer_Calculation.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\03. Methods\Methods\14. Integer Calculation\obj\Debug\14. Integer Calculation.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\03. Methods\Methods\14. Integer Calculation\obj\Debug\_14.Integer_Calculation.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\03. Methods\Methods\14. Integer Calculation\obj\Debug\_14.Integer_Calculation.pdb

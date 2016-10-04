@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\06. Strings and Text Processing\Strings\02. Reverse String\bin\Debug\_02.Reverse_String.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\06. Strings and Text Processing\Strings\02. Reverse String\bin\Debug\_02.Reverse_String.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\06. Strings and Text Processing\Strings\02. Reverse String\bin\Debug\_02.Reverse_String.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\06. Strings and Text Processing\Strings\02. Reverse String\obj\Debug\02. Reverse String.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\06. Strings and Text Processing\Strings\02. Reverse String\obj\Debug\_02.Reverse_String.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\06. Strings and Text Processing\Strings\02. Reverse String\obj\Debug\_02.Reverse_String.pdb

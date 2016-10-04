@@ -1,0 +1,5 @@
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\03.books\bin\Debug\03.books.exe.config
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\03.books\bin\Debug\03.books.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\03.books\bin\Debug\03.books.pdb
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\03.books\obj\Debug\03.books.exe
+E:\Programming\Telerik\Software Academy\c Sharp Exam\CSharpExam\03.books\obj\Debug\03.books.pdb

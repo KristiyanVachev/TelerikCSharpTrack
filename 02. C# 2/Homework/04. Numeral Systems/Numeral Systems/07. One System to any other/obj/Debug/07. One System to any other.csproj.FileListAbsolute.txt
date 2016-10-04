@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\04. Numeral Systems\Numeral Systems\07. One System to any other\bin\Debug\_07.One_System_to_any_other.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\04. Numeral Systems\Numeral Systems\07. One System to any other\bin\Debug\_07.One_System_to_any_other.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\04. Numeral Systems\Numeral Systems\07. One System to any other\bin\Debug\_07.One_System_to_any_other.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\04. Numeral Systems\Numeral Systems\07. One System to any other\obj\Debug\07. One System to any other.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\04. Numeral Systems\Numeral Systems\07. One System to any other\obj\Debug\_07.One_System_to_any_other.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\04. Numeral Systems\Numeral Systems\07. One System to any other\obj\Debug\_07.One_System_to_any_other.pdb

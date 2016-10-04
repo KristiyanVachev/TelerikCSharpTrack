@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\06. Max K sum\bin\Debug\_06.Max_K_sum.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\06. Max K sum\bin\Debug\_06.Max_K_sum.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\06. Max K sum\bin\Debug\_06.Max_K_sum.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\06. Max K sum\obj\Debug\06. Max K sum.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\06. Max K sum\obj\Debug\_06.Max_K_sum.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\01\Arrays\06. Max K sum\obj\Debug\_06.Max_K_sum.pdb

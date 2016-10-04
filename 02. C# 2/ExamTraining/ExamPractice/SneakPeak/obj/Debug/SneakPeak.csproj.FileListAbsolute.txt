@@ -1,0 +1,6 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\SneakPeak\bin\Debug\SneakPeak.exe.config
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\SneakPeak\bin\Debug\SneakPeak.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\SneakPeak\bin\Debug\SneakPeak.pdb
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\SneakPeak\obj\Debug\SneakPeak.csprojResolveAssemblyReference.cache
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\SneakPeak\obj\Debug\SneakPeak.exe
+E:\Programming\Telerik\Software Academy\02. C# 2\ExamTraining\ExamPractice\SneakPeak\obj\Debug\SneakPeak.pdb

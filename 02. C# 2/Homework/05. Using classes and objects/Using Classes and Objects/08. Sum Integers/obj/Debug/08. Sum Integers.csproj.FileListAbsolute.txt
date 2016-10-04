@@ -1,0 +1,1 @@
+E:\Programming\Telerik\Software Academy\02. C# 2\Homework\05. Using classes and objects\Using Classes and Objects\08. Sum Integers\bin\Debug\_08.Sum_Integers.exe.config
